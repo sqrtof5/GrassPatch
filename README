@@ -1,0 +1,3 @@
+GrassPatch
+--------------------------------
+Creates 3D grass patch in AS3, by stitching Sprite instances seamlessly using a custom billboarding technique, decribed at: http://blog.sqrtof5.com/?p=6
